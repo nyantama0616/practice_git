@@ -2,6 +2,6 @@
 .box {
     width: 200px;
     height: 200px;
-    border: 1px blue solid;
-    background-color: rgb(127, 161, 206);
+    border: 3px blue dashed;
+    background-color: rgb(168, 189, 217);
 }
